@@ -1,0 +1,17 @@
+workflows:
+  ios-workflow:
+    name: iOS Build
+    max_build_duration: 60
+    environment:
+      xcode: latest
+    scripts:
+      - name: Build iOS app
+        script: |
+          xcodebuild \
+          -project Lissa.xcodeproj \
+          -scheme Lissa \
+          -sdk iphoneos \
+          -configuration Release \
+          build
+    artifacts:
+      - build/**/*.ipa
