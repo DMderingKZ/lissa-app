@@ -270,8 +270,8 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.7;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dering.Lissa;
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.dering.lissa2026;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dering.Lissaapp;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.dering.lissaapp;
 				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.dering.lissaapp;
 				"PRODUCT_BUNDLE_IDENTIFIER[sdk=xros*]" = com.dering.lissaapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -319,8 +319,8 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.7;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dering.Lissa;
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.dering.lissa2026;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dering.Lissaapp;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.dering.lissaapp;
 				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.dering.lissaapp;
 				"PRODUCT_BUNDLE_IDENTIFIER[sdk=xros*]" = com.dering.lissaapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
